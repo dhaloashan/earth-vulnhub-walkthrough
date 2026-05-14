@@ -41,7 +41,6 @@ The objective was to obtain both user and root access.
 </tr>
 
 <tr>
-<td><img src="https://github.com/user-attachments/assets/98cbfc35-a554-4f2b-b79a-e2e90073f8bf" width="300"></td>
 <td><img src="https://github.com/user-attachments/assets/16ee804d-feac-4f43-86c2-8ec502109625" width="300"></td>
 </tr>
 </table>
