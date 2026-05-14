@@ -314,11 +314,11 @@ This machine demonstrates how information disclosure, weak encryption practices,
 
 ## Machine Author
 
-SirFlash
+SirFlash 
 
 ## Platform
 
-VulnHub
+VulnHub - https://www.vulnhub.com/
 
 ## Writeup Author
 
