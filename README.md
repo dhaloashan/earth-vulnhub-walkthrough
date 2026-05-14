@@ -324,3 +324,6 @@ VulnHub - https://www.vulnhub.com/
 
 **Assan Jallow**  
 CTF Practitioner · Penetration Testing
+
+<img width="1557" height="617" alt="image (7)" src="https://github.com/user-attachments/assets/87a37440-484e-4f90-803a-ae134eecfb34" />
+
