@@ -4,7 +4,6 @@ Earth VulnHub privilege escalation lab focused on reconnaissance, web enumeratio
 # The Planets: Earth — CTF Writeup
 
 > VulnHub Machine Walkthrough  
-> Difficulty: Easy  
 > Target OS: Fedora Linux  
 > Author: SirFlash
 
@@ -304,6 +303,15 @@ Attack path:
 Both user and root access were successfully obtained.
 
 ---
+Both flags were successfully captured during the engagement, confirming full compromise of the target system. After exploiting the vulnerable admin functionality and escalating privileges through the misconfigured SUID binary, root-level access to the Fedora host was obtained. The user flag was recovered from the terra account, and the root flag was retrieved after resetting the root password and switching to the root user.
+
+```text
+User Flag: user_flag_3353b67d6437f07ba7d34afd7d2fc27d
+Root Flag: root_flag_b0da9554d29db2117b02aa8b66ec492e
+```
+
+This machine demonstrates how information disclosure, weak encryption practices, insecure command execution, and improper SUID configurations can be chained together to achieve complete system compromise.
+
 
 # Credits
 
