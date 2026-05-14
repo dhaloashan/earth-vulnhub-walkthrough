@@ -1,6 +1,3 @@
-# earth-vulnhub-walkthrough
-Earth VulnHub privilege escalation lab focused on reconnaissance, web enumeration, reverse shell access, Linux enumeration, SUID exploitation, binary analysis, and root privilege escalation in a local VMware cybersecurity practice environment.
-
 # The Planets: Earth — CTF Writeup
 
 > VulnHub Machine Walkthrough  
@@ -11,7 +8,7 @@ Earth VulnHub privilege escalation lab focused on reconnaissance, web enumeratio
 
 # Overview
 
-This writeup documents the complete exploitation process of the **Earth** machine from the *The Planets* series on VulnHub. The engagement covered:
+This writeup documents my personal steps to the completion of the exploitation process of the **Earth** machine from the *The Planets* series on VulnHub. The engagement covered:
 
 - Network reconnaissance
 - Web enumeration
