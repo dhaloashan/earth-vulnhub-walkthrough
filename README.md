@@ -21,17 +21,81 @@ The objective was to obtain both user and root access.
 
 ---
 # Screenshots 
-<img width="1555" height="615" alt="image (4)" src="https://github.com/user-attachments/assets/d3d63925-ccef-4c65-b7c2-486a447225cc" />
-<img width="1557" height="617" alt="image (3)" src="https://github.com/user-attachments/assets/a486d1e2-c83c-48a5-9cfa-67a4374081ad" />
-<img width="1555" height="615" alt="image (2)" src="https://github.com/user-attachments/assets/00ff37de-7f98-4d1c-91a2-34e3a92467cf" />
-<img width="1555" height="615" alt="image (1)" src="https://github.com/user-attachments/assets/6dfd23cc-06d7-4a5f-9aeb-f591c590beb9" />
-<img width="1555" height="615" alt="image" src="https://github.com/user-attachments/assets/98cbfc35-a554-4f2b-b79a-e2e90073f8bf" />
-<img width="1555" height="615" alt="image (10)" src="https://github.com/user-attachments/assets/16ee804d-feac-4f43-86c2-8ec502109625" />
-<img width="1555" height="615" alt="image (9)" src="https://github.com/user-attachments/assets/b6b8cad4-e8c7-4bc9-8361-dea9e14e4dcc" />
-<img width="1918" height="862" alt="image (8)" src="https://github.com/user-attachments/assets/abc705a7-8461-42f6-8006-a05aba14925e" />
-<img width="1557" height="617" alt="image (7)" src="https://github.com/user-attachments/assets/08e4f3a9-22e5-4d13-b376-2d7d855c6333" />
-<img width="1557" height="617" alt="image (6)" src="https://github.com/user-attachments/assets/f8fb2a8b-ca48-4eb1-a2d2-acfc7dd80a57" />
-<img width="1557" height="617" alt="image (5)" src="https://github.com/user-attachments/assets/b584e1fb-38fd-42fa-8b7d-446f832f3c74" />
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/d3d63925-ccef-4c65-b7c2-486a447225cc" width="300"><br>
+<b>Reconnaissance</b><br>
+<sub>Initial network discovery and target identification.</sub>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/a486d1e2-c83c-48a5-9cfa-67a4374081ad" width="300"><br>
+<b>Nmap Enumeration</b><br>
+<sub>Service detection and port scanning results.</sub>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/00ff37de-7f98-4d1c-91a2-34e3a92467cf" width="300"><br>
+<b>Virtual Host Discovery</b><br>
+<sub>Hostname configuration for web access.</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/6dfd23cc-06d7-4a5f-9aeb-f591c590beb9" width="300"><br>
+<b>Directory Enumeration</b><br>
+<sub>Hidden directories discovered with Dirb.</sub>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/98cbfc35-a554-4f2b-b79a-e2e90073f8bf" width="300"><br>
+<b>robots.txt Disclosure</b><br>
+<sub>Exposed paths and developer resources.</sub>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/16ee804d-feac-4f43-86c2-8ec502109625" width="300"><br>
+<b>Credential Recovery</b><br>
+<sub>XOR decryption performed in CyberChef.</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/b6b8cad4-e8c7-4bc9-8361-dea9e14e4dcc" width="300"><br>
+<b>Admin Access</b><br>
+<sub>Authenticated access to the admin panel.</sub>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/abc705a7-8461-42f6-8006-a05aba14925e" width="300"><br>
+<b>Reverse Shell</b><br>
+<sub>Interactive shell established on the target.</sub>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/08e4f3a9-22e5-4d13-b376-2d7d855c6333" width="300"><br>
+<b>SUID Enumeration</b><br>
+<sub>Discovery of vulnerable SUID binary.</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/f8fb2a8b-ca48-4eb1-a2d2-acfc7dd80a57" width="300"><br>
+<b>Privilege Escalation</b><br>
+<sub>Trigger files created for exploitation.</sub>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/b584e1fb-38fd-42fa-8b7d-446f832f3c74" width="300"><br>
+<b>Root Access</b><br>
+<sub>Root shell obtained and flags captured.</sub>
+</td>
+</tr>
+</table>
 
 # Target Information
 
